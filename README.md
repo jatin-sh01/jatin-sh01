@@ -26,11 +26,7 @@
 <div style="margin: 20px auto; max-width: 800px; padding: 0 10px;">
   <h2 align="center">🙋‍♂️ About Me</h2>
   
-  <img 
-    src=./assets/imag"es/GDG.png" 
-    alt="My Profile Image" 
-    style="display: block; width: 100%; height: auto; margin: 20px 0;"
-  />
+ 
   
   <p style="text-align: left;">
     Hey there! I'm Jatin Sharma, a passionate full-stack developer from Jaipur, Rajasthan. I love exploring new technologies and building innovative projects. Over the years, I've built a variety of projects (feel free to check out my <a href="https://github.com/jatin-sh01?tab=repositories" target="_blank">repositories</a>) and I'm constantly evolving as a developer.
