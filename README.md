@@ -15,7 +15,8 @@
   <!-- Visitor Counter -->
   <div style="margin: 20px 0;">
     <b>✦ Visitor Count ✦</b><br>
-    <img src="https://profile-counter.glitch.me/jatin-sh01/count.svg" alt="Visitor Count"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=jatin-sh01" alt="Visitor Count"/>
+
   </div>
 
   <!-- Animated Banner -->
