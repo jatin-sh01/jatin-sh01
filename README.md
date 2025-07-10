@@ -79,6 +79,75 @@
   </div>
 </div>
 
+<div align="center" style="margin: 40px 0;">
+  <h3>Tech Stack</h3>
+  <div style="overflow-x: auto;">
+    <table style="border-collapse: collapse; margin: 0 auto;">
+      <!-- Row 1 -->
+      <tr>
+        <td align="center" style="padding: 10px;">
+          <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" /><br>HTML5
+        </td>
+        <td align="center" style="padding: 10px;">
+          <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" /><br>CSS3
+        </td>
+        <td align="center" style="padding: 10px;">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" width="40" height="40" alt="JavaScript" /><br>JavaScript
+        </td>
+        <td align="center" style="padding: 10px;">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="ReactJS" /><br>ReactJS
+        </td>
+        <td align="center" style="padding: 10px;">
+          <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="NextJS" /><br>NextJS
+        </td>
+        <td align="center" style="padding: 10px;">
+          <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" /><br>Tailwind
+        </td>
+        <td align="center" style="padding: 10px;">
+          <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="NodeJS" /><br>NodeJS
+        </td>
+        <td align="center" style="padding: 10px;">
+          <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express.js" /><br>Express.js
+        </td>
+        <td align="center" style="padding: 10px;">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40" alt="SQL Database" /><br>SQL Database
+        </td>
+      </tr>
+      <!-- Row 2 -->
+      <tr>
+        <td align="center" style="padding: 10px;">
+          <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" /><br>Mongo DB
+        </td>
+        <td align="center" style="padding: 10px;">
+          <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" /><br>Java
+        </td>
+        <td align="center" style="padding: 10px;">
+          <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /><br>Git
+        </td>
+        <td align="center" style="padding: 10px;">
+          <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" height="40" alt="Github" /><br>Github
+        </td>
+        <td align="center" style="padding: 10px;">
+          <img src="https://skillicons.dev/icons?i=npm" width="40" height="40" alt="npm" /><br>npm
+        </td>
+        <td align="center" style="padding: 10px;">
+          <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VSCode" /><br>VSCode
+        </td>
+        <td align="center" style="padding: 10px;">
+          <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" /><br>Figma
+        </td>
+        <td align="center" style="padding: 10px;">
+          <img src="https://skillicons.dev/icons?i=notion" width="40" height="40" alt="Notion" /><br>Notion
+        </td>
+        <td align="center" style="padding: 10px;">
+          <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" width="40" height="40" alt="Socket.io" /><br>Socket.io
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
+<br><br>
+
 <!-- GIF -->
 <div align="center" style="margin: 20px 0;">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" style="max-width: 100%; height: auto;">
